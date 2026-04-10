@@ -1,5 +1,3 @@
-# StockBridge
-
 # StockBridge – Zerodha-Inspired Trading Platform
 
 StockBridge is a full-stack web application inspired by Zerodha, designed to simulate a modern stock trading ecosystem.
@@ -201,7 +199,7 @@ Inspired by the design and workflow of Zerodha.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Saurav Kumar Meena**
 B.Tech CSE – RTU Kota
