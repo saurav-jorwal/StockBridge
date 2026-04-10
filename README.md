@@ -92,7 +92,7 @@ stockbridge
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/StockBridge.git
+git clone https://github.com/saurav-jorwal/StockBridge.git
 cd StockBridge
 ```
 
