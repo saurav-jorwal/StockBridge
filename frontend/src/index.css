@@ -93,3 +93,6 @@ code {
   text-decoration: underline;
 }
 
+.navbar .nav-link:hover {
+  opacity: 0.9;
+}

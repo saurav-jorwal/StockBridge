@@ -69,7 +69,7 @@ const Menu = () => {
           <li>
             <Link
               style={{ textDecoration: "none" }}
-              to="funds"
+              to="/funds"
               onClick={() => handleMenuClick(4)}
             >
               <p className={selectedMenu === 4 ? activeMenuClass : menuClass}>
@@ -87,6 +87,22 @@ const Menu = () => {
                 Apps
               </p>
             </Link>
+          </li>
+          <li>
+            <button
+              onClick={() => window.open("https://stock-bridge-u9xd.vercel.app", "_blank")}
+              style={{
+                backgroundColor: "#f97316",
+                color: "white",
+                padding: "6px 14px",
+                borderRadius: "6px",
+                border: "none",
+                cursor: "pointer",
+                fontSize: "14px",
+              }}
+            >
+              Home
+            </button>
           </li>
         </ul>
         <hr />
