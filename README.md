@@ -9,9 +9,9 @@ This project demonstrates full-stack development skills including frontend archi
 
 ## Live Demo
 
-Frontend: (Coming Soon)
-Dashboard: (Coming Soon)
-Backend API: (Coming Soon)
+Frontend: https://stock-bridge-u9xd.vercel.app
+Dashboard: https://stock-bridge-ylax.vercel.app
+Backend API: stockbridge-production-d003.up.railway.app
 
 ---
 
@@ -69,7 +69,7 @@ User visits landing page
 ### Deployment (Planned)
 
 * Vercel (Frontend & Dashboard)
-* Render (Backend)
+* Railway (Backend)
 
 ---
 
