@@ -9,9 +9,9 @@ This project demonstrates full-stack development skills including frontend archi
 
 ## Live Demo
 
-Frontend: https://stock-bridge-u9xd.vercel.app
-Dashboard: https://stock-bridge-ylax.vercel.app
-Backend API: stockbridge-production-d003.up.railway.app
+- Frontend: https://stock-bridge-u9xd.vercel.app
+- Dashboard: https://stock-bridge-ylax.vercel.app
+- Backend API: https://stockbridge-production-d003.up.railway.app
 
 ---
 
