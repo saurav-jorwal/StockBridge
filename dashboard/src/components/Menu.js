@@ -89,20 +89,23 @@ const Menu = () => {
             </Link>
           </li>
           <li>
-            <button
-              onClick={() => window.open("https://stock-bridge-u9xd.vercel.app", "_blank")}
+            <a
+              href="https://stock-bridge-u9xd.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
               style={{
                 backgroundColor: "#f97316",
                 color: "white",
                 padding: "6px 14px",
                 borderRadius: "6px",
-                border: "none",
                 cursor: "pointer",
                 fontSize: "14px",
+                textDecoration: "none",
+                display: "inline-block",
               }}
             >
               Home
-            </button>
+            </a>
           </li>
         </ul>
         <hr />
